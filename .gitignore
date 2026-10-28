@@ -24,3 +24,5 @@ rustc-ice-*.txt
 #.idea/
 client/dist
 server/target
+
+.env
