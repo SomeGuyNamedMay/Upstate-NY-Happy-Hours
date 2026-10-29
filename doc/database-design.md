@@ -2,6 +2,13 @@
 
 ## user table
 
+
+##### owner table
+- Id: a unique id to each user
+- Username: the username of the user
+- Email: the email of the user
+- password: the password of the user
+
 ##### The user table consists of
 - Id: a unique id to each user
 - Username: the username of the user
